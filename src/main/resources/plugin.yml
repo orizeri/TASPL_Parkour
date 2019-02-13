@@ -1,0 +1,16 @@
+name: TASPL_Parkour
+main: net.oriserver.taspl_parkour.Main
+version: 2.4.0
+author: orizeri
+website: http://nico.ms/co2121849
+
+commands:
+  Pk:
+    description: TarutoAthleticServerAdminCommnad
+    usage: /<command> help
+    permission: tasplpk.admin
+    permission-message: You don't have permission
+
+  Parkour:
+    description: TarutoAthleticServerParkourCommnad
+    usage: /<command> help
